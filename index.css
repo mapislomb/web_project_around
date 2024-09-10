@@ -141,6 +141,38 @@
   max-width: 880px;
 }
 
+.popup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  width: 430px;
+  height: 330px;
+  gap: 0px;
+  border-radius: 10px 0px 0px 0px;
+}
+.popup_editprofile {
+  width: 330px;
+  height: 23px;
+  top: 229px;
+  left: 461px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29.05px;
+  text-align: left;
+}
+.block {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
 @media screen and (max-width: 1020px) {
 }
 
