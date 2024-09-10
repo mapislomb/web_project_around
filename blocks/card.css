@@ -1,0 +1,35 @@
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 282px);
+  max-width: 880px;
+  margin: auto;
+  row-gap: 20px;
+  column-gap: 17px;
+  margin-bottom: 67px;
+}
+.card {
+  height: 361px;
+  background-color: #ffffff;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.card__name {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29.05px;
+  text-align: left;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.card__image {
+  display: flex;
+  justify-content: space-between;
+  width: 282px;
+  height: 282px;
+  top: 329px;
+  left: 200px;
+  gap: 17;
+  border-radius: 10px 10px 0px 0px;
+}

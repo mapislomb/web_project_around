@@ -1,0 +1,15 @@
+.edit {
+  height: fit-content;
+  background-color: transparent;
+  border: 0;
+}
+.edit__button {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #ffffff;
+}
+
+.heart__button {
+  width: 21px;
+  height: 19px;
+}

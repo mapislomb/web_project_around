@@ -1,0 +1,15 @@
+.header {
+  max-width: 880px;
+  max-height: 74px;
+  padding-top: 45px;
+  margin: auto;
+  border-bottom: 1px solid #545454;
+  column-gap: 41px;
+}
+.header__logo {
+  max-width: 173px;
+  max-height: 33px;
+  top: 45px;
+  margin-bottom: 41px;
+  left: 200px;
+}

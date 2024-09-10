@@ -1,0 +1,12 @@
+.footer {
+  color: #545454;
+  background-color: #000000;
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.78px;
+  text-align: left;
+  margin: auto;
+  margin-bottom: 60px;
+  max-width: 880px;
+}
